@@ -1,7 +1,7 @@
 Markdown
 # 🧾 AI Finance Agent (Milestone 1)
 
-An intelligent multi-modal financial agent powered by **Google Gemini 1.5 Flash**.
+An intelligent multi-modal financial agent powered by **Google Gemini 2.5 Flash**.
 
 ---
 
